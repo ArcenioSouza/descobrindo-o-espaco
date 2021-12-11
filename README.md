@@ -1,0 +1,10 @@
+# Descobrindo o espaço
+
+Esse site consome a API APOD da Nasa retornando a foto, o titulo e uma descrição do acontecimento do dia especificado pelo usuário.
+
+# Objetivos
+
+[ok] - Práticar o consumo de APIS;
+
+[ok] - Aprender a usar o JQuery para fazer requisições e manipulação do DOM;
+
